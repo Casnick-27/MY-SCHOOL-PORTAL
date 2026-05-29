@@ -14,6 +14,7 @@ const quotes = [
   "Every child can learn, lead, and shine.",
   "Strong roots today. Brighter wings tomorrow.",
   "Discipline, curiosity, kindness, excellence.",
+  "Education is the key to success.",
 ];
 
 year.textContent = new Date().getFullYear();
